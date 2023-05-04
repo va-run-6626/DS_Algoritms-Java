@@ -1,7 +1,7 @@
 /**
  * Missing
  */
-public class Missing {
+public class Prog2_Missing {
     public static void main(String[] args) {
         int[]arr = {10,11,12,13,14,16,17,18};
         //given : index 0 can never be missing 
