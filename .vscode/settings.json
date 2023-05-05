@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "1.Arrays",
         "1.Arrays/1.1Traversals",
-        "2.LinearSearch"
+        "2.LinearSearch",
+        "3.BinarySearch"
     ]
 }
