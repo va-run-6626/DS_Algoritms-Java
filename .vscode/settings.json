@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "100Collections",
         "3.BinarySearch",
         "2.LinearSearch",
         "1.Arrays/1.1Traversals",
